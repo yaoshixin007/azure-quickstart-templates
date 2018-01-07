@@ -1,4 +1,4 @@
-# Deployment of Red Hat Enterprise Linux VM (RHEL 7.2 or RHEL 6.7)
+# Deployment of Centos Linux VM 
 
 <a href="https://portal.azure.cn/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%yaoshixin007%2Fazure-quickstart-templates%2Fmaster%2Fvm-simple-rhel%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
